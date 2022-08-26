@@ -1,1 +1,3 @@
-# mcis6273-f22-datamining
+# About Lorem Ipsum :
+
+Lorem Ipsum is simply dummy text of the printing and typesetting industry 
